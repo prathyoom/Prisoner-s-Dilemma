@@ -14,4 +14,4 @@ N=5 M=2000 T=50
 <br>
 N=5 M=10000 T=50
 
-It can be noticed here that initially the models were competing with each other, resulting in gradual reduction in score. Later, models experimented cooperating for a possible uptick. When ran even further (refer figure 3), one can notice that they convergence to a particular score better than all cheat. 
+It can be noticed here that initially the models were competing with each other, resulting in gradual reduction in score. Later, models experimented cooperating for a possible uptick. When ran even further (refer figure 3), one can notice that they converge to a particular score better than all cheat. 
